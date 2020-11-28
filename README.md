@@ -8,7 +8,7 @@ Simple library for convert PHP math functions to objects.
 
 ## Installation
 - `php >= 7.0` is required
-- `$ composer require ayzanet/php-math:1.*`
+- `$ composer require ayzanet/php-math:^1.0`
 - `$ composer update`
 
 ## Basic Usage
