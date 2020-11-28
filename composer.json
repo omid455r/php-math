@@ -1,0 +1,28 @@
+{
+  "name": "ayzanet/php-math",
+  "description": "Convert PHP's math resources to objects",
+  "homepage": "https://github.com/ayzanet/php-math",
+  "license": "GPL-3.0",
+  "keywords": [
+    "math",
+    "mathematical",
+    "helper",
+    "php"
+  ],
+  "authors": [
+    {
+      "name": "Alireza Dana",
+      "email": "pixelitir@gmail.com",
+      "homepage": "https://github.com/ayzanet",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ayzanet\\PhpMath\\": "src"
+    }
+  }
+}
