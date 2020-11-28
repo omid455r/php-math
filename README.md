@@ -22,3 +22,5 @@ Math::isNan(10); // false
 // Use Chain Methods
 (new Math(-10.6))->abs()->floor()->div(2)->get() // 5
 ```
+
+##### Just See the code for other methods!
