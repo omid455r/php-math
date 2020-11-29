@@ -18,6 +18,8 @@ Math::floor(-63.6); // 63
 Math::pow(2,3); // 9
 Math::isNan(10); // false
 Math::round(5.6) // 6
+Math::max([5, 3, 8]) // 8
+Math::min([5, 3, 8]) // 3
 
 // Use Chain Methods
 (new Math(-10.6))::abs()::floor()::div(2)::get() // 5
